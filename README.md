@@ -22,12 +22,7 @@ netflix_etl/
 ## Architecture du Pipeline
 
 >
-> ```markdown
 > ![Pipeline ETL Netflix](pipeline_projet.png)
-> ```
->
-> *(Créer un dossier `images/` et y déposer votre capture ou schéma du pipeline)*
-
 ---
 
 ## Base de données
