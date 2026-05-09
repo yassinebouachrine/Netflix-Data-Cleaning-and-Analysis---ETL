@@ -35,4 +35,4 @@ netflix_etl/
 
 ## Auteur
 
-**BOUACHRINE Yassine** — Projet ETL Netflix | MSSQL + Python
+**BOUACHRINE Yassine** : Projet ETL Netflix | MSSQL + Python
